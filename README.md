@@ -9,7 +9,7 @@ Stack basé sur :
 - Typescript; 
 - Webpack.
 
-## Éléments réaliser ##
+## Éléments réalisés ##
 
 - Partir du `Quick start` d'Angular 2 (en version 2.0.0) ;
 - Remplacer systemJS par webpack ;
