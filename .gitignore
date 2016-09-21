@@ -1,3 +1,10 @@
+# dossier de module externe téléchargeable 
 node_modules/
-dist/
 typings/
+
+# répertoire générer par le build
+dist/
+
+# fichiers/dossiers d'IDE (le projet essaye d'être IDE free)
+*.sublime-project
+*.sublime-workspace
