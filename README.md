@@ -31,5 +31,7 @@ Stack basé sur :
 
 ## Problème courrant
 
+### Proxy
+
 1. Lorsque l'on est derrière un proxy, il faut penser à mettre à jour son utilitaire git et npm
 2. ajouter le fichier .typingsrc avec la definition du proxy `proxy="http://nomDomaine:port` ou `proxy="http://login:mdp@nomDomaine:port`
