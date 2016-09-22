@@ -8,3 +8,6 @@ dist/
 # fichiers/dossiers d'IDE (le projet essaye d'être IDE free)
 *.sublime-project
 *.sublime-workspace
+
+# on interdit de commiter le fichier .typingsrc pour éviter les conflits inutiles et pour éviter de commiter en clair login mot de passe
+.typingsrc
